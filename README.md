@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aldo De Cillis</h1>
+<h1 align="center">Hi! I'm Aldo De Cillis</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Italy</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47y6g9lfv0ks1d7cluw1talh2y06yadrtw6uv3oa1f&rid=giphy.gif&ct=g">
 
@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **React and Python**
 
-- 💬 Ask me about **HTML5, CSS3 and Bootstrap**
-
 - 📫 How to reach me **aldo.decillis00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aldo de cillis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo de cillis" height="30" width="40" /></a>
-<a href="https://fb.com/aldo de cillis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aldo de cillis" height="30" width="40" /></a>
-<a href="https://instagram.com/aldodc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldodc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aldo-de-cillis-web-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo de cillis" height="30" width="40" /></a>
+<a href="https://www.facebook.com/aldo.decillis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aldo de cillis" height="30" width="40" /></a>
+<a href="https://www.instagram.com/thehellcatspangled.shalala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldodc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
