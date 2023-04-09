@@ -1,6 +1,7 @@
+<img align="center" alt="Coding" width="100%" height="420" src="https://i.imgur.com/O3Bxs16.gif">
 <h1 align="center">Hi! I'm Aldo De Cillis</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47y6g9lfv0ks1d7cluw1talh2y06yadrtw6uv3oa1f&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="420" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldodecillis&label=Profile%20views&color=0e75b6&style=flat" alt="aldodecillis" /> </p>
