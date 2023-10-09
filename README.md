@@ -1,11 +1,11 @@
-<h1 align="center">Hi! I'm Mario Rossi</h1>
+<h1 align="center">Hi! I'm Davide</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Italy</h3>
 
 
 
 - 🌱 I’m currently learning **React and Python**
 
-- 📫 How to reach me **mariorossi@gmail.com**
+- 📫 How to reach me **davide@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
