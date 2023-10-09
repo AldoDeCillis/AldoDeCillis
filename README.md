@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="420" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-5.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldodecillis&label=Profile%20views&color=0e75b6&style=flat" alt="aldodecillis" /> </p>
 
 - 🌱 I’m currently learning **React and Python**
 
