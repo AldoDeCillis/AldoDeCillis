@@ -1,4 +1,3 @@
-<img align="center" alt="Coding" width="100%" height="350" src="https://i.imgur.com/O3Bxs16.gif">
 <h1 align="center">Hi! I'm Aldo De Cillis</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Italy</h3>
 
