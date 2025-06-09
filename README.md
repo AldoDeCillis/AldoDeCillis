@@ -54,12 +54,12 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" width="48" height="48" alt="Tailwind" />
 <br>Tailwind
 </td>
+</tr>
+<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
-</tr>
-<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
 <br>TypeScript
@@ -68,6 +68,8 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
 <br>React
 </td>
+</tr>
+<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/inertia.svg" width="48" height="48" alt="Inertia" />
 <br>Inertia.js
@@ -75,6 +77,8 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
 <br>Bootstrap
+</td>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 </td>
 </tr>
 </table>
@@ -94,12 +98,12 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/livewire.svg" width="48" height="48" alt="Livewire" />
 <br>Livewire
 </td>
+</tr>
+<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
 <br>Python
 </td>
-</tr>
-<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" width="48" height="48" alt="FastAPI" />
 <br>FastAPI
@@ -108,6 +112,8 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="48" height="48" alt="REST APIs" />
 <br>REST APIs
 </td>
+</tr>
+<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="48" height="48" alt="Composer" />
 <br>Composer
@@ -115,6 +121,8 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="NPM" />
 <br>NPM
+</td>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 </td>
 </tr>
 </table>
@@ -134,12 +142,12 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
 <br>Redis
 </td>
+</tr>
+<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
 <br>Docker
 </td>
-</tr>
-<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
 <br>Git
@@ -148,6 +156,8 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
 <br>GitHub
 </td>
+</tr>
+<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="WSL" />
 <br>WSL
@@ -155,6 +165,26 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
 <br>Bash
+</td>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
+</td>
+</tr>
+</table>
+
+### ☁️ **Cloud & Hosting**
+<table>
+<tr>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" />
+<br>DigitalOcean
+</td>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg" width="48" height="48" alt="Laravel Forge" />
+<br>Laravel Forge
 </td>
 </tr>
 </table>
@@ -174,9 +204,15 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-plain.svg" width="48" height="48" alt="Puppeteer" />
 <br>Puppeteer
 </td>
+</tr>
+<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
 <br>TensorFlow
+</td>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
+</td>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 </td>
 </tr>
 </table>
@@ -189,16 +225,22 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <br>Atlassian
 </td>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googleworkspace.svg" width="48" height="48" alt="Google WS" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googledrive.svg" width="48" height="48" alt="Google Workspace" />
 <br>Google WS
 </td>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="48" height="48" alt="Photoshop" />
 <br>Photoshop
 </td>
+</tr>
+<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="48" height="48" alt="Illustrator" />
 <br>Illustrator
+</td>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
+</td>
+<td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 </td>
 </tr>
 </table>
