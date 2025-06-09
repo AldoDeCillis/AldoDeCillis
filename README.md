@@ -54,8 +54,6 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" width="48" height="48" alt="Tailwind" />
 <br>Tailwind
 </td>
-</tr>
-<tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
@@ -68,6 +66,8 @@ Experienced in **Agile/SCRUM** methodologies and effective teamwork in multidisc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
 <br>React
 </td>
+</tr>
+<tr>
 </tr>
 <tr>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
