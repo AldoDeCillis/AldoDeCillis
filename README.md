@@ -189,7 +189,7 @@ Experienced in interfacing directly with clients and stakeholders and working ef
 <br>Claude
 </td>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
-<img src="https://images.seeklogo.com/logo-png/61/2/crew-ai-logo-png_seeklogo-619843.png" width="48" height="48" alt="CrewAI" />
+<img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" width="48" height="48" alt="CrewAI" />
 <br>CrewAI
 </td>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
