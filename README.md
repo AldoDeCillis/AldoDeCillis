@@ -189,7 +189,7 @@ Experienced in interfacing directly with clients and stakeholders and working ef
 <br>Claude
 </td>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
-<img src="https://raw.githubusercontent.com/joacoc/crewai/main/docs/img/logo_crewai.png" width="48" height="48" alt="CrewAI" />
+<img src="https://www.crewai.com/img/logo_crewai.png" width="48" height="48" alt="CrewAI" />
 <br>CrewAI
 </td>
 <td align="center" width="96" style="background-color: #f8f9fa; padding: 10px; border-radius: 8px;">
