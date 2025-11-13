@@ -1,13 +1,13 @@
-# 👋 Ciao! I'm Aldo De Cillis
+# Ciao! I'm Aldo De Cillis
 
 <div align="center">
-  <h2>🚀 Full-Stack Web Developer & AI Enthusiast from Italy</h2>
+  <h2>Full-Stack Web Developer & AI Enthusiast from Italy</h2>
   <p><em>{ vibe_coding_mode : true }</em></p>
 </div>
 
 ---
 
-## 🌟 About Me
+## About Me
 
 Passionate **Full-Stack Developer** with **over 2 years of experience** and a deep love for **Artificial Intelligence** and cutting-edge technologies. My journey in tech is driven by curiosity and the desire to create meaningful digital experiences. Through my AI enthusiasm, I've had the opportunity to experiment with numerous projects and explore diverse technologies, always pushing the boundaries of what's possible.
 
@@ -21,23 +21,23 @@ Passionate **Full-Stack Developer** with **over 2 years of experience** and a de
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
-### 💻 Full-Stack Development
+### Full-Stack Development
 Specialized in **Laravel** and **React**, creating scalable web applications from backend architecture to seamless user experiences.
 
-### 🤖 AI Integration
+### AI Integration
 Actively using AI tools (like **OpenAI API, Claude, Codex**) for pair-programming and building **AI agent orchestrations** (with tools like **CrewAI**) to automate complex workflows and accelerate development.
 
-### 🧩 Problem Solving
+### Problem Solving
 Methodical approach to tackling complex challenges and managing technical emergencies with elegant, efficient solutions.
 
-### 👥 Collaboration
+### Collaboration
 Experienced in interfacing directly with clients and stakeholders and working effectively in multidisciplinary environments.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -236,21 +236,21 @@ Experienced in interfacing directly with clients and stakeholders and working ef
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 *(Here are some real projects I've built and managed)*
 
-### 🤖 AI-Powered Solutions
+### AI-Powered Solutions
 - **Civic Contest Monitor**: Built a platform from scratch (Laravel & React) that uses **CrewAI** agents to monitor public tenders, analyze documents with AI, and automate data extraction—replacing a complex manual process.
 - **AI-Assisted Development**: Actively integrate AI (OpenAI API, Codex, Claude) into my daily workflow for pair-programming, optimizing code, and accelerating delivery times.
 
-### 🌐 Web Applications
+### Web Applications
 - **Enterprise Management System**: Developed a complex system (using React via **Inertia.js**) for fleet and site management, featuring reliable **chunked S3 uploads** and a full audit trail.
 - **Skill Assessment Platform**: A multi-tenant HR system that assesses skills, normalizes them against the **O\*NET dataset**, and generates custom PDF reports using **async Redis jobs**.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aldodecillis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
@@ -258,7 +258,7 @@ Experienced in interfacing directly with clients and stakeholders and working ef
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aldo-de-cillis-web-developer/" target="_blank">
@@ -275,6 +275,6 @@ Experienced in interfacing directly with clients and stakeholders and working ef
 ---
 
 <div align="center">
-  <h3>💡 "Innovation happens when creativity meets cutting-edge technology"</h3>
-  <p><em>Always exploring new possibilities in the intersection of AI and web development</em></p>
+  <h3>"AI is not going to take your job. A person who uses AI is going to take your job."</h3>
+  <p><em>— Jensen Huang, CEO of NVIDIA</em></p>
 </div>
